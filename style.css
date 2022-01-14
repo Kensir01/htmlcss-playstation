@@ -1,0 +1,16 @@
+.header-top{
+    background-color: black;
+}
+
+.header-top-logo{
+    width: 5rem;
+}
+
+.ms_bg_jumbotron{
+    height: 750px;
+    background-image: url(img/jumbo-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
