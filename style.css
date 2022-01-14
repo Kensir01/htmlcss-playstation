@@ -14,6 +14,24 @@
     background-position: center;
 }
 
+.ms_bg_takestwo{
+    height: 750px;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ms_relative_takestwo{
+    position: relative;
+}
+
+.ms_absolute_bot_takestwo{
+    position: absolute;
+    top: 150px;
+}
+
+
 .ms_banner_returnal{
     height: 100%;
     width: 50%;
@@ -59,4 +77,8 @@ border-radius: 10px;
 
 .ms_blue_border:hover > .ms_card_info{
     border-bottom-color: blue 
+}
+
+.ms_bg_black{
+    background-color: #1f1f1f;
 }
