@@ -14,3 +14,25 @@
     background-position: center;
 }
 
+.ms_banner_returnal{
+    height: 100%;
+    width: 50%;
+}
+
+.ms_bottone_arancione{
+    background-color: #cd3d0f;
+}
+
+
+.ms_relative{
+    position: relative;
+}
+
+.ms_absolute_bot{
+    position: absolute;
+    bottom: 5px;
+}
+
+.ms_height{
+    height: 100%;
+}
