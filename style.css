@@ -36,3 +36,27 @@
 .ms_height{
     height: 100%;
 }
+
+.ms_border_radius{
+border-radius: 10px;
+}
+
+.ms_img:hover{
+    padding: 2px 2px;
+    border: 2px solid #0070D1;
+}
+
+.ms_link_nolimits{
+    text-decoration: none;
+}
+
+.ms_card_info{
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+    border-bottom-color: transparent;
+}
+
+.ms_blue_border:hover > .ms_card_info{
+    border-bottom-color: blue 
+}
