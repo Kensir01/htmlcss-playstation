@@ -82,3 +82,23 @@ border-radius: 10px;
 .ms_bg_black{
     background-color: #1f1f1f;
 }
+
+
+.ms_button_grigio{
+    background-color: #d9dadc;
+    border-color: #d9dadc;
+    color: #4977e5;
+}
+
+.ms_container_topo{
+    background-color: #bebcbb;
+}
+
+.ms_img_playplus{
+    width: 50%;
+    height: 50%;
+}
+
+.ms_pplus img{
+    width: 50%;
+}
