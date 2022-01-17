@@ -59,8 +59,12 @@
 border-radius: 10px;
 }
 
-.ms_img:hover{
+.ms_img{
     padding: 2px 2px;
+    border: 2px solid transparent;
+}
+
+.ms_img:hover{
     border: 2px solid #0070D1;
 }
 
@@ -68,16 +72,15 @@ border-radius: 10px;
     text-decoration: none;
 }
 
-.ms_card_info{
-    border-right-style: none;
-    border-left-style: none;
-    border-top-style: none;
-    border-bottom-color: transparent;
+
+.ms_thumb_blueborder{
+    border-bottom: 2px solid transparent;
 }
 
-.ms_blue_border:hover > .ms_card_info{
-    border-bottom-color: blue 
+.ms_thumb_blueborder:hover{
+    border-bottom: 2px solid #0070D1;
 }
+
 
 .ms_bg_black{
     background-color: #1f1f1f;
@@ -101,4 +104,19 @@ border-radius: 10px;
 
 .ms_pplus img{
     width: 50%;
+}
+
+
+.ms_container_blu_scuro{
+    background-color: #161c3b;
+}
+
+.ms_psnow img{
+    width: 50%;
+}
+
+.ms_button_bianco{
+    background-color: #f5f5f5;
+    border-color: #f5f5f5;
+    color: black;
 }
