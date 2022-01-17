@@ -76,13 +76,18 @@ border-radius: 10px;
     text-decoration: none;
 }
 
+#ms_thumb_ps5_active{
+    border-bottom: 2px solid #0070D1;
+}
 
 .ms_thumb_blueborder{
     border-bottom: 2px solid transparent;
+    opacity: 0.5;
 }
 
 .ms_thumb_blueborder:hover{
     border-bottom: 2px solid #0070D1;
+    opacity: 1;
 }
 
 
